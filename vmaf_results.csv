@@ -1,0 +1,7 @@
+run,vmaf,num_frames,fps_used,run_dir,visualize_dir
+KDf_4,18.416522,132,30,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\KDf_4,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\KDf_4\visualize
+KDf_fp32,39.656608,132,30,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\KDf_fp32,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\KDf_fp32\visualize
+KDff_4,18.688826,132,30,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\KDff_4,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\KDff_4\visualize
+Lfp32,89.723353,132,30,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\Lfp32,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\Lfp32\visualize
+T4,17.012842,132,30,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\T4,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\T4\visualize
+Tfp32,34.796314,132,30,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\Tfp32,C:\Users\hanan\Documents\1-KD-NeRV\NeRV-master\output\D\bunny\Tfp32\visualize
