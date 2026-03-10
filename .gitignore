@@ -1,6 +1,1 @@
 output/
-vmaf_models/
-vmaf_results.csv
-vmaf_results.json
-vmaf_results.yaml
-batch_vmaf.py
